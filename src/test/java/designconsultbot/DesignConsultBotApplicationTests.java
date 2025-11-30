@@ -1,4 +1,4 @@
-package cohort_65.java.designconsultbot;
+package designconsultbot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

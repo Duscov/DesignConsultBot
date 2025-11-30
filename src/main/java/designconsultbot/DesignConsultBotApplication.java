@@ -1,4 +1,4 @@
-package cohort_65.java.designconsultbot;
+package designconsultbot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
