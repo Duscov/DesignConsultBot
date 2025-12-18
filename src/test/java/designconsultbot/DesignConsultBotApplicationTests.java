@@ -9,5 +9,7 @@ import org.springframework.test.context.ActiveProfiles;
 class DesignConsultBotApplicationTests {
 
     @Test
-    void contextLoads() {}
+    void contextLoads() {
+        // Тест проверяет, что контекст загружается
+    }
 }
